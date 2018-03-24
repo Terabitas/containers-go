@@ -9,5 +9,4 @@ RUN go get github.com/tools/godep && \
     go get github.com/derekparker/delve/cmd/dlv && \
     go get golang.org/x/tools/cmd/goimports
 
-
 EXPOSE 2345
